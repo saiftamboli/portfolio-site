@@ -1,3 +1,4 @@
 dashboard link>
 
-https://github.com/saiftamboli/portfolio-site.git
+https://github.com/saiftamboli/portfolio-site
+
